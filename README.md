@@ -1,6 +1,4 @@
-# PL4-tutorial-dire-o
-
-# BookConnect
+# PL4-BookConnect
 
 ## Objetivo  
 O **BookConnect** é uma plataforma web destinada a conectar leitores e amantes de livros, permitindo que compartilhem resenhas, recomendações e discutam sobre suas leituras. O objetivo é criar uma rede social voltada para a troca de experiências literárias, com funcionalidades de busca, categorização de livros e interações entre os usuários.
